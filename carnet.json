@@ -1,7 +1,13 @@
 {
  "version": 1,
  "seances": {},
- "mesures": {},
+ "mesures": {
+  "mmw7p8fvz4qux": {
+   "date": "2026-11-08",
+   "savedAt": 1794134292335,
+   "poids": 92
+  }
+ },
  "courses": {},
  "config": {
   "taille": 188,
