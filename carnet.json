@@ -1,0 +1,12 @@
+{
+ "version": 1,
+ "seances": {},
+ "mesures": {},
+ "courses": {},
+ "config": {
+  "taille": 188,
+  "naissance": 2004,
+  "sexe": "H"
+ },
+ "strava": {}
+}
